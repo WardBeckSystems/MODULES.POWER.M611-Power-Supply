@@ -1,5 +1,5 @@
 # 1982 - M611 - TABLE OF CONTENTS M611-M611A POWER SUPPLY.jpg
-Wiki page: [M611](../../../PAGES/M611.md)
+Wiki page: [M611](../../../../PAGES/M611.md)
 
 
 - **Year:** 1982 (module estimate (manual_issue))
@@ -33,7 +33,7 @@ B 611-02-001 B 611-04-001 B 611-06-001
 
 ```json
 {
- "file": "Modules/POWER/M611/1982 - M611 - TABLE OF CONTENTS M611-M611A POWER SUPPLY.jpg",
+ "file": "Modules/POWER/M611/MANUALS/1982 - M611 - TABLE OF CONTENTS M611-M611A POWER SUPPLY.jpg",
  "sha256": "b85ca54b521bc765e56eabd5d7b7d5aed865bf45494c20bc3bb6e294d96f0c09",
  "kind": "module",
  "models": [

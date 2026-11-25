@@ -1,5 +1,5 @@
 # 1982 - M611 - M611A Power Supply - 003.jpg
-Wiki page: [M611](../../../PAGES/M611.md)
+Wiki page: [M611](../../../../PAGES/M611.md)
 
 
 - **Year:** 1982 (module estimate (manual_issue))
@@ -41,7 +41,7 @@ Weight:
 
 ```json
 {
- "file": "Modules/POWER/M611/1982 - M611 - M611A Power Supply - 003.jpg",
+ "file": "Modules/POWER/M611/MANUALS/1982 - M611 - M611A Power Supply - 003.jpg",
  "sha256": "1f8701e3b6d59ec60eafd74029d499e15d97fa71326dd8e17d5aa7e2b583f2da",
  "kind": "module",
  "models": [

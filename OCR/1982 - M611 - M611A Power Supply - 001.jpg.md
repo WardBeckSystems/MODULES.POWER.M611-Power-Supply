@@ -1,5 +1,5 @@
 # 1982 - M611 - M611A Power Supply - 001.jpg
-Wiki page: [M611](../../../PAGES/M611.md)
+Wiki page: [M611](../../../../PAGES/M611.md)
 
 
 - **Year:** 1982 (found in this file: "MANUAL ISSUE #2 SEPTEMBER 1982")
@@ -43,7 +43,7 @@ SEPTEMBER 1982
 
 ```json
 {
- "file": "Modules/POWER/M611/1982 - M611 - M611A Power Supply - 001.jpg",
+ "file": "Modules/POWER/M611/MANUALS/1982 - M611 - M611A Power Supply - 001.jpg",
  "sha256": "6871738e2120573a74b0d3f32f068e281a3ab22a486104dd437222378798db8b",
  "kind": "module",
  "models": [

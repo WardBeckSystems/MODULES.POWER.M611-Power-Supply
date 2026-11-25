@@ -1,5 +1,5 @@
 # 1982 - M611 - M611A Power Supply - 004.jpg
-Wiki page: [M611](../../../PAGES/M611.md)
+Wiki page: [M611](../../../../PAGES/M611.md)
 
 
 - **Year:** 1982 (module estimate (manual_issue))
@@ -51,7 +51,7 @@ The module size of 5.1 X 3.4 X 13.7 inches allows three M611/M6IIA power supplie
 
 ```json
 {
- "file": "Modules/POWER/M611/1982 - M611 - M611A Power Supply - 004.jpg",
+ "file": "Modules/POWER/M611/MANUALS/1982 - M611 - M611A Power Supply - 004.jpg",
  "sha256": "c3336bee5f243ad57bc9434d06faae014831faa1a8909eced23f680abdd4b804",
  "kind": "module",
  "models": [
