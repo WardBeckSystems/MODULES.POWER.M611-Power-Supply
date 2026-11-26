@@ -36,7 +36,7 @@ Wiki page: [M611](../../../../PAGES/M611.md)
 - **Closed boxes:** 26
 - **Wiring (first pass):** 82 connected wire groups from 606 runs
 
-Every curve, box, word and wire group: [1988 - 3642-02-010 - POWER SUPPLIES SCHEMATIC - DRN DS - ENG PA - ISS 4 (2) (traced).json](../SCHEMATICS/1988%20-%203642-02-010%20-%20POWER%20SUPPLIES%20SCHEMATIC%20-%20DRN%20DS%20-%20ENG%20PA%20-%20ISS%204%20(2)%20(traced).json) (the CAD file: `1988 - 3642-02-010 - POWER SUPPLIES SCHEMATIC - DRN DS - ENG PA - ISS 4 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 3642-02-010 - POWER SUPPLIES SCHEMATIC - DRN DS - ENG PA - ISS 4 (2) (traced).json](../SCHEMATICS/1988%20-%203642-02-010%20-%20POWER%20SUPPLIES%20SCHEMATIC%20-%20DRN%20DS%20-%20ENG%20PA%20-%20ISS%204%20%282%29%20%28traced%29.json) (the CAD file: `1988 - 3642-02-010 - POWER SUPPLIES SCHEMATIC - DRN DS - ENG PA - ISS 4 (2) (traced).dxf`).
 
 ## Full text
 

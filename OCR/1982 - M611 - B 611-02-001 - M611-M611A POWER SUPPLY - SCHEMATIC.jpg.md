@@ -23,7 +23,7 @@ Wiki page: [M611](../../../../PAGES/M611.md)
 - **Title block:** (341, 28)–(432, 45) mm: WBS · WARD-BECK By8temB
 - **Wiring (first pass):** 71 connected wire groups from 251 runs; labelled ends: 156 mm → C2, 2600; 154 mm → 9600, 13 ,; 106 mm → CR2Z; 95 mm → C2, 2600; 92 mm → 7A, 9600
 
-Every curve, box, word and wire group: [1982 - M611 - B 611-02-001 - M611-M611A POWER SUPPLY - SCHEMATIC (traced).json](../SCHEMATICS/1982%20-%20M611%20-%20B%20611-02-001%20-%20M611-M611A%20POWER%20SUPPLY%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1982 - M611 - B 611-02-001 - M611-M611A POWER SUPPLY - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M611 - B 611-02-001 - M611-M611A POWER SUPPLY - SCHEMATIC (traced).json](../SCHEMATICS/1982%20-%20M611%20-%20B%20611-02-001%20-%20M611-M611A%20POWER%20SUPPLY%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1982 - M611 - B 611-02-001 - M611-M611A POWER SUPPLY - SCHEMATIC (traced).dxf`).
 
 ## Full text
 

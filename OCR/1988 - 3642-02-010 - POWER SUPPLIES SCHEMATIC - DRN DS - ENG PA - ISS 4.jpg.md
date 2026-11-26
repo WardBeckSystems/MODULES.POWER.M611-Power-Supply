@@ -38,7 +38,7 @@ Wiki page: [M611](../../../../PAGES/M611.md)
 - **Title block:** (680, 8)–(857, 83) mm: ISSUEIDAIE · WBS · WARD-BECK SYSTEMS · M611 · POWER   SUPPLIES · SCHEMATIC · SCALE · 3642-02-010
 - **Wiring (first pass):** 221 connected wire groups from 2,697 runs; labelled ends: 30 mm → 0-0; 23 mm → 0-0; 21 mm → LOAD TRAUSFER; 20 mm → 0-0; 11 mm → LOAD TRAUSFER
 
-Every curve, box, word and wire group: [1988 - 3642-02-010 - POWER SUPPLIES SCHEMATIC - DRN DS - ENG PA - ISS 4 (traced).json](../SCHEMATICS/1988%20-%203642-02-010%20-%20POWER%20SUPPLIES%20SCHEMATIC%20-%20DRN%20DS%20-%20ENG%20PA%20-%20ISS%204%20(traced).json) (the CAD file: `1988 - 3642-02-010 - POWER SUPPLIES SCHEMATIC - DRN DS - ENG PA - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 3642-02-010 - POWER SUPPLIES SCHEMATIC - DRN DS - ENG PA - ISS 4 (traced).json](../SCHEMATICS/1988%20-%203642-02-010%20-%20POWER%20SUPPLIES%20SCHEMATIC%20-%20DRN%20DS%20-%20ENG%20PA%20-%20ISS%204%20%28traced%29.json) (the CAD file: `1988 - 3642-02-010 - POWER SUPPLIES SCHEMATIC - DRN DS - ENG PA - ISS 4 (traced).dxf`).
 
 ## Full text
 
