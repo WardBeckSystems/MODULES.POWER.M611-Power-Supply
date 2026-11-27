@@ -13,6 +13,39 @@ Ward-Beck Systems M611, 1982|15. Wiki page: [M611 on WBSps.ca](https://wardbecks
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 14 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [2 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1982 - M611 - M611A Power Supply - 003.jpg](MANUALS/1982%20-%20M611%20-%20M611A%20Power%20Supply%20-%20003.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Output voltage** |  |
+| &nbsp;&nbsp;Output 1 | 12 volts dc nominal _ Output 2: 20 volts dc nominal |
+| &nbsp;&nbsp;Load current |  |
+| &nbsp;&nbsp;Output 1 | 6 A maximum Output 2: 250 mA maximum. |
+| &nbsp;&nbsp;Ripple |  |
+| &nbsp;&nbsp;Output 1 | 2.5 volts P/p maximum_ Output 2: 1 volt P/p maximum |
+| **Power requirements** | M611 115 volts ac, 60 Hz. nominal; prir mary strapping provided for 105V ac and 125V ac. M61IA 230 volts ac, 50Hz _ nominal; primary strapping provided for 210v ac and 250v ac. |
+| **Ambient temperature** | 0 to 60 degrees Celsius |
+| **Dimensions** | 5.1&quot; wide X 3.4&quot; high X 13.7&quot; deep (130 mm X 83 mm X 336 mm) |
+| **Weight** | 8.5 Ib _ (3.85 kg) |
+
+## Circuit description
+
+From [1982 - M611 - M611A Power Supply - 004.jpg](MANUALS/1982%20-%20M611%20-%20M611A%20Power%20Supply%20-%20004.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The M611/m6I1A Power Supply is designed to be used as a primary power supply for WBS TTL Logic Cards utilizing 5 V regulators_ One output delivers 12 volts at a maximum load of 6A _ A second output, rated at 20 volts, 250 mA is provided to supply a negative biasing voltage. Two power supply versions are available. The M611 operates from a 115v AC, 60 Hz power source while the M6IIA operates from 230v AC 50 Hz. Primary taps at the power transformer permit ac input variations of +/ -10% to be accommodated_ Two separate secondary winding in conjunction with two bridge rectifiers are utilized to provide complete electrical isolation between the two outputs. The primary and secondary fuses are conveniently located at the front panel _ A power ON/OFF switch and a LED indicator are also mounted on the front panel AMI connections are made via the MF6 frame receptacles_ The MF6 connectors are wired for the required ac and dc operating conditions of the M611/M6IIA module Modules may therefore be interchanged without affecting the operation of the system _ The module size of 5.1 X 3.4 X 13.7 inches allows three M611/M6IIA power supplies to be accommodated in one standard rack mounting (191 X 3.5H) MF6 equipment frame_ Perforations in the mounting frame and module assure adequate vertical ventilation by natural convection
+
+</details>
+
+<!-- /module data -->
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
