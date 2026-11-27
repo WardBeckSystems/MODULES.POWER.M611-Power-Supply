@@ -74,6 +74,32 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZTRBMFRmN1FMeGM/view?resourcekey=0-Ki-cItFZyd5mClfrgAVYTA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZTRBMFRmN1FMeGM&resourcekey=0-Ki-cItFZyd5mClfrgAVYTA" width="240" alt="19xx - M611 - DOC - 005.jpg"></a><br><sub>19xx - M611 - DOC - 005</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKamx6SzBqeWx2V28/view?resourcekey=0-Qk_mzl4u7t3c2eZoRsDliw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKamx6SzBqeWx2V28&resourcekey=0-Qk_mzl4u7t3c2eZoRsDliw" width="240" alt="19xx - M611 - DOC - 012.jpg"></a><br><sub>19xx - M611 - DOC - 012</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKcktuT3phVlllM0k/view?resourcekey=0-54T6H43B01J3csvOTc_ydA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKcktuT3phVlllM0k&resourcekey=0-54T6H43B01J3csvOTc_ydA" width="240" alt="19xx - M611 - DOC - 033.jpg"></a><br><sub>19xx - M611 - DOC - 033</sub></td></tr>
 </table>
 
+## RTO-144 pinout
+
+Read from 1 pinout picture (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
+
+| Pin | Signal | Kind | Port | Confidence |
+|---|---|---|---|---|
+| P1-3 | AC TAP 105/210 V | strap |  | high |
+| P1-4 | AC TAP 115/230 V | strap |  | high |
+| P1-5 | AC TAP 125/250 V | strap |  | high |
+| P1-6 | AC INPUT TAP COMMON (STRAP) | strap |  | high |
+| P1-7 | AC LINE IN | power | AC INPUT | high |
+| P1-16 | AC LINE IN | power | AC INPUT | high |
+| P2-2 | -20 V UNREGULATED | power |  | high |
+| P2-5 | +12 V UNREGULATED | power |  | high |
+| P2-6 | +12 V UNREGULATED | power |  | high |
+| P2-7 | +12 V UNREGULATED | power |  | high |
+| P2-8 | +12 V UNREGULATED | power |  | high |
+| P2-10 | +20 V UNREGULATED | power |  | high |
+| P2-12 | CHASSIS GROUND | ground |  | high |
+| P2-13 | 12 V COMMON | ground |  | high |
+| P2-14 | 12 V COMMON | ground |  | high |
+| P2-15 | 12 V COMMON | ground |  | high |
+| P2-16 | 12 V COMMON | ground |  | high |
+
+**Straps:** M611 MAINS TAP: P1-6 P1-5 · M611A MAINS TAP: P1-6 P1-5
+
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._

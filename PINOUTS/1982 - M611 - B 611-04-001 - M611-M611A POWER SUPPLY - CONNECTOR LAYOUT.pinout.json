@@ -1,0 +1,275 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1982 - M611 - B 611-04-001 - M611-M611A POWER SUPPLY - CONNECTOR LAYOUT.jpg",
+  "module": "M611",
+  "applies_to": [
+    "M611",
+    "M611A"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "611-04-001",
+    "title": "M611/M611A POWER SUPPLY CONNECTOR LAYOUT",
+    "date": null,
+    "issue": "2",
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "other (16-pin, 2 x 8, keyed shell)",
+      "contacts": 16,
+      "rows": "1-8 opposite 9-16",
+      "view": "rear (wiring viewed from rear of frame)",
+      "part": null
+    },
+    {
+      "name": "P2",
+      "kind": "other (16-pin, 2 x 8, keyed shell)",
+      "contacts": 16,
+      "rows": "9-16 opposite 1-8",
+      "view": "rear (wiring viewed from rear of frame)",
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "AC INPUT (M611 - 115V AC 60Hz / M611A - 230V AC 50Hz)",
+      "signal": "AC LINE IN",
+      "kind": "power",
+      "port": "AC INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "AC INPUT (M611 - 115V AC 60Hz / M611A - 230V AC 50Hz)",
+      "signal": "AC LINE IN",
+      "kind": "power",
+      "port": "AC INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "See Notes (strap)",
+      "signal": "AC INPUT TAP COMMON (STRAP)",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "(Notes: strap pin 6 to pin 5 for 125V / 250V)",
+      "signal": "AC TAP 125/250 V",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "See Notes (strap, dashed to 6)",
+      "signal": "AC TAP 115/230 V",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "(Notes: strap pin 6 to pin 3 for 105V / 210V)",
+      "signal": "AC TAP 105/210 V",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "+V (20V UNREGULATED)",
+      "signal": "+20 V UNREGULATED",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "-V (20V UNREGULATED)",
+      "signal": "-20 V UNREGULATED",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "(chassis ground symbol)",
+      "signal": "CHASSIS GROUND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "+12V UNREGULATED (5-8 linked)",
+      "signal": "+12 V UNREGULATED",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "+12V UNREGULATED (5-8 linked)",
+      "signal": "+12 V UNREGULATED",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "+12V UNREGULATED (5-8 linked)",
+      "signal": "+12 V UNREGULATED",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "+12V UNREGULATED (5-8 linked)",
+      "signal": "+12 V UNREGULATED",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "12V COMM (13-16 linked)",
+      "signal": "12 V COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "12V COMM (13-16 linked)",
+      "signal": "12 V COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "12V COMM (13-16 linked)",
+      "signal": "12 V COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "12V COMM (13-16 linked)",
+      "signal": "12 V COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "AC INPUT",
+      "dir": "in",
+      "pins": {
+        "a": "P1-16",
+        "b": "P1-7"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [
+    {
+      "name": "M611 MAINS TAP",
+      "pins": [
+        "P1-6",
+        "P1-5"
+      ],
+      "note": "125 V input"
+    },
+    {
+      "name": "M611 MAINS TAP",
+      "pins": [
+        "P1-6",
+        "P1-4"
+      ],
+      "note": "115 V input (drawn dashed)"
+    },
+    {
+      "name": "M611 MAINS TAP",
+      "pins": [
+        "P1-6",
+        "P1-3"
+      ],
+      "note": "105 V input"
+    },
+    {
+      "name": "M611A MAINS TAP",
+      "pins": [
+        "P1-6",
+        "P1-5"
+      ],
+      "note": "250 V input"
+    },
+    {
+      "name": "M611A MAINS TAP",
+      "pins": [
+        "P1-6",
+        "P1-4"
+      ],
+      "note": "230 V input"
+    },
+    {
+      "name": "M611A MAINS TAP",
+      "pins": [
+        "P1-6",
+        "P1-3"
+      ],
+      "note": "210 V input"
+    }
+  ],
+  "unread": [
+    "No date or drawn-by on the visible title block",
+    "Whether '20V UNREGULATED' is the +V/-V pair together (±20 V) or the magnitude of each is inferred from the label placement",
+    "AC line vs neutral on P1-16/P1-7 not labelled"
+  ],
+  "confidence": "high",
+  "notes": "Connector frame wiring for M611/M611A, viewed from rear of frame. P1 = mains: AC input (M611 115 V AC 60 Hz, M611A 230 V AC 50 Hz) on P1-16 and P1-7; a dashed 'See Notes' link from P1-6 to P1-4. Notes 1/2: conditional strap pin 6 to pin 5/4/3 for 125/115/105 V (M611) or 250/230/210 V (M611A); the notes do not name the connector, read as P1 from the dashed link. P2 = outputs: +V on 10 and -V on 2 (labelled together '20V UNREGULATED'), 5-8 linked to +12V UNREGULATED, 13-16 linked to 12V COMM, 12 to chassis ground. Remaining contacts drawn unwired. Note P1's left column is 1-8 and P2's left column is 9-16 as drawn."
+}
