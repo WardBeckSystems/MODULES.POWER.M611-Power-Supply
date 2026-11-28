@@ -4,13 +4,12 @@ Ward-Beck Systems M611, 1982|15. Wiki page: [M611 on WBSps.ca](https://wardbecks
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 17 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 7 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 10 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 16 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 9 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 14 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -53,8 +52,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1zvZukZz2QWibvBeoCX-S8UBstcp5XM6t/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1zvZukZz2QWibvBeoCX-S8UBstcp5XM6t" width="240" alt="1982 - M611 - B 611-02-001 - M611-M611A POWER SUPPLY - SCHEMATIC.jpg"></a><br><sub>1982|15 · B 611-02-001 - M611-M611A POWER SUPPLY - SCHEMATIC · <a href="SCHEMATICS/1982%20-%20M611%20-%20B%20611-02-001%20-%20M611-M611A%20POWER%20SUPPLY%20-%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1y8kQyyqUHpWh1u59L3naES4Flvj396Bp/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1y8kQyyqUHpWh1u59L3naES4Flvj396Bp" width="240" alt="1982 - M611 - B 611-06-001 - M611-M611A POWER SUPPLY - COMPONENT LAYOUT.jpg"></a><br><sub>1982|15 · B 611-06-001 - M611-M611A POWER SUPPLY - COMPONENT LAYOUT · <a href="SCHEMATICS/1982%20-%20M611%20-%20B%20611-06-001%20-%20M611-M611A%20POWER%20SUPPLY%20-%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `1988 - 3642-02-010 - POWER SUPPLIES SCHEMATIC - DRN DS - ENG PA - ISS 4 (2).jpg`, `1988 - 3642-02-010 - POWER SUPPLIES SCHEMATIC - DRN DS - ENG PA - ISS 4.jpg`
 
 ## Pinouts
 
@@ -108,7 +105,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1988 - 3642-02-010 - POWER SUPPLIES SCHEMATIC - DRN DS - ENG PA - ISS 4 (2).kicad_sch](KICAD/1988%20-%203642-02-010%20-%20POWER%20SUPPLIES%20SCHEMATIC%20-%20DRN%20DS%20-%20ENG%20PA%20-%20ISS%204%20(2).kicad_sch)
 - [1988 - 3642-02-010 - POWER SUPPLIES SCHEMATIC - DRN DS - ENG PA - ISS 4.kicad_sch](KICAD/1988%20-%203642-02-010%20-%20POWER%20SUPPLIES%20SCHEMATIC%20-%20DRN%20DS%20-%20ENG%20PA%20-%20ISS%204.kicad_sch)
 - [M611.kicad_sym](KICAD/M611.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
