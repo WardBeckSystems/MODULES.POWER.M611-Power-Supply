@@ -1,5 +1,5 @@
 # 1988 - 3642-02-010 - POWER SUPPLIES SCHEMATIC - DRN DS - ENG PA - ISS 4.jpg
-Wiki page: [M611](../../../../PAGES/M611.md)
+Wiki page: [M611](../)
 
 
 - **Year:** 1988 (title block date)

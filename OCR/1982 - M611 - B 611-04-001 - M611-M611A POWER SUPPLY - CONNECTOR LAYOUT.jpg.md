@@ -1,5 +1,5 @@
 # 1982 - M611 - B 611-04-001 - M611-M611A POWER SUPPLY - CONNECTOR LAYOUT.jpg
-Wiki page: [M611](../../../../PAGES/M611.md)
+Wiki page: [M611](../)
 
 
 - **Year:** 1982 (module estimate (manual_issue))

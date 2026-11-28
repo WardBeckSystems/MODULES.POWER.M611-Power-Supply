@@ -1,5 +1,5 @@
 # 1982 - M611 - M611A Power Supply - 000.jpg
-Wiki page: [M611](../../../../PAGES/M611.md)
+Wiki page: [M611](../)
 
 
 - **Year:** 1982 (module estimate (manual_issue))

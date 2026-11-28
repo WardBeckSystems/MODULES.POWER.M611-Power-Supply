@@ -1,6 +1,6 @@
 # M611 Power Supply · Power
 
-Ward-Beck Systems M611, 1982|15. Wiki page: [M611 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M611.html)
+Ward-Beck Systems M611, 1982|15. Wiki page: [M611 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M611-Power-Supply/)
 
 | Folder | What is in it | Files |
 |---|---|---|
